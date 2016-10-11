@@ -17,7 +17,7 @@ def lucas(n):
     else:
         return lucas (n-1) + lucas (n-2)
 
-"""this function creates a recursion or lucas numbers liner recursion which is the sum of its 
+"""this awesome function creates a recursion or lucas numbers liner recursion which is the sum of its 
 first two immediate terms"""
  
 
