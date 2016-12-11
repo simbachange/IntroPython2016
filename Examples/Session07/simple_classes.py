@@ -10,6 +10,8 @@ import math
 
 # create a point class
 class Point:
+    size = 4
+    color = "red"
     def __init__(self, x, y):
         self.x = x
         self.y = y
